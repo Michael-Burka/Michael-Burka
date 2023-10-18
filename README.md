@@ -34,11 +34,11 @@
 
 ### 📚 Education
 
-- **Professional Training Course «Python Django Software Engineer»**
-- **Professional Training Course «Data Science Specialist»** 
-- **Master's Degree in Ecology and Nature Management**
-- **Professional Training Course «Environmental Quality Assessment»**
-- **Bachelor's Degree in Energy and resource-saving processes in chemical technology, petrochemistry and biotechnology**
+ **Professional Training Course «Python Django Software Engineer»**  
+ **Professional Training Course «Data Science Specialist»**   
+ **Master's Degree in Ecology and Nature Management**  
+ **Professional Training Course «Environmental Quality Assessment»**  
+ **Bachelor's Degree in Energy and resource-saving processes in chemical technology, petrochemistry and biotechnology**  
 
 ---
 

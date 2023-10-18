@@ -4,8 +4,17 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+### 🔍 Proficiency & Accomplishments
 
+#### Core Technologies
+- **Python**: Proficient in the fundamentals, advanced topics, and standard libraries.
+- **Django**: Comprehensive skills in web development, ORM, form handling, and user authentication.
+- **Django Rest Framework**: Adept at CRUD operations, request management, rate limiting, and API development.
+
+#### Testing & Deployment
+- **Testing**: Well-versed in `unittest` and `pytest` frameworks, especially within Django.
+- **Deployment**: Gained hands-on experience in server management, domain handling, Docker, and automated deployments.
+  
 ### 📚 Education
 
 - **Professional Training Course «Python Django Software Engineer»**

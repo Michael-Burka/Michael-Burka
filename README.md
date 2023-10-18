@@ -14,7 +14,13 @@
 #### Testing & Deployment
 - **Testing**: Well-versed in `unittest` and `pytest` frameworks, especially within Django.
 - **Deployment**: Gained hands-on experience in server management, domain handling, Docker, and automated deployments.
-  
+
+#### Projects & Real-world Applications
+- Developed a range of applications including:
+ - **Kittygram**: A fully-featured Django web application that allows users to share and view cat photos, focusing on containerization and CI/CD practices. [View on GitHub](https://github.com/Michael-Burka/kittygram_final)
+ - **YaMDb**: A Django-driven web platform where users can review and discuss various creative works like Books, Movies, and Music. The project showcases advanced Django and REST API skills, emphasizing user experience and data integrity. [View on GitHub](https://github.com/Michael-Burka/api_yamdb)
+  - **django_testing**: An advanced testing project for web applications, focusing on rigorous testing of YaNote and YaNews using unittest and pytest frameworks. It emphasizes ensuring stability, functionality, and security in web applications. [View on GitHub](https://github.com/Michael-Burka/django_testing)
+    
 ### 📚 Education
 
 - **Professional Training Course «Python Django Software Engineer»**

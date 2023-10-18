@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hi there, I'm Michael Burka
 
-<!--
-**Michael-Burka/Michael-Burka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Backend Developer 📍 Based in UAE
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education
+Professional Training Course «Python Django Software Engineer»
+Professional Training Course «Data Science Specialist»
+Master's Degree in Ecology and Nature Management
+Professional Training Course «Environmental Quality Assessment»
+Bachelor's Degree in Energy and resource-saving processes
+
+📫 Feel free to connect with me on LinkedIn or reach out via Email 

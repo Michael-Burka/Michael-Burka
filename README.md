@@ -16,3 +16,6 @@
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michael-burka-485832251/) or reach out via [Email](mailto:contact@michaelburka.com)
 
+---
+
+![](https://komarev.com/ghpvc/?username=Michael-Burka&color=blueviolet)

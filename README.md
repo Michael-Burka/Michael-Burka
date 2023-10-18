@@ -4,6 +4,13 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=nginx)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-dark?style=flat-square&logo=gunicorn)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+
 ### 🔍 Proficiency & Accomplishments
 
 #### Core Technologies

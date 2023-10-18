@@ -14,15 +14,15 @@
 ### 🔍 Proficiency & Accomplishments
 
 #### 💻 Core Technologies
-- **Python**: Proficient in fundamentals, advanced topics, and standard libraries.
-- **Django**: Comprehensive skills in web development, ORM, form handling, and user authentication.
-- **Django Rest Framework**: Skilled in CRUD operations, request management, rate limiting, and API development.
-- **Databases**: Experienced with PostgreSQL and SQLite.
-- **Version Control**: Proficient in using Git and GitHub for collaborative projects.
+**Python**: Proficient in fundamentals, advanced topics, and standard libraries.
+**Django**: Comprehensive skills in web development, ORM, form handling, and user authentication.
+**Django Rest Framework**: Skilled in CRUD operations, request management, rate limiting, and API development.
+**Databases**: Experienced with PostgreSQL and SQLite.
+**Version Control**: Proficient in using Git and GitHub for collaborative projects.
 
 #### 🧪 Testing & Deployment
-- **Testing**: Well-versed in `unittest` and `pytest` frameworks, especially for Django.
-- **Deployment**: Expertise in server management, domain handling, Docker, and automated deployments using GitHub Actions.
+**Testing**: Well-versed in `unittest` and `pytest` frameworks, especially for Django.
+**Deployment**: Expertise in server management, domain handling, Docker, and automated deployments using GitHub Actions.
 
 #### 🤝 Soft Skills
 - Strong problem-solving ability, effective teamwork, and clear communication skills. Adaptable to new technologies and quick in learning.

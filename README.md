@@ -31,9 +31,9 @@ Strong problem-solving ability, effective teamwork, and clear communication skil
 
 | Project Name  | Description                                         |
 |-------------- |-----------------------------------------------------|
-| **Kittygram** | Django-based cat photo-sharing app.                  |
-| **YaMDb**     | Platform for discussing creative works.              |
-| **django_testing**| Emphasis on testing for stability and security.     |
+| [**Kittygram**](https://github.com/Michael-Burka/kittygram_final) | Django-based cat photo-sharing app.                  |
+| [**YaMDb**](https://github.com/Michael-Burka/api_yamdb)           | Platform for discussing creative works.              |
+| [**django_testing**](https://github.com/Michael-Burka/django_testing)| Emphasis on testing for stability and security.     |
 
 #### 🚀 Data Science Projects
 | Project Name  | Description                                         |

@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Michael Burka
 
-I'm a **Python Backend Developer** based in 🇦🇪 UAE. Although I'm relatively new to backend development, I've already taken on projects such as [Kittygram](https://github.com/Michael-Burka/kittygram_final) and [YaMDb](https://github.com/Michael-Burka/api_yamdb). My diverse background in **Ecology** and **Chemical Technology** uniquely influences and sharpens my approach to coding.  
+I'm a **Python Backend Developer** based in 🇦🇪 UAE. Although I'm relatively new to backend development, I've already taken on projects such as [Kittygram](https://github.com/Michael-Burka/kittygram_final), [YaMDb](https://github.com/Michael-Burka/api_yamdb) and [django_esting](https://github.com/Michael-Burka/django_testing). My diverse background in **Ecology** and **Chemical Technology** uniquely influences and sharpens my approach to coding.  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)

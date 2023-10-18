@@ -2,7 +2,9 @@
 
 🐍 Python Backend Developer 📍 Based in UAE
 
-
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ### 📚 Education
 
@@ -16,6 +18,3 @@
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michael-burka-485832251/) or reach out via [Email](mailto:contact@michaelburka.com)
 
----
-
-![](https://komarev.com/ghpvc/?username=Michael-Burka&color=blueviolet)

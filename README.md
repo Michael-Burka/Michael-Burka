@@ -27,10 +27,17 @@ I'm a **Python Backend Developer** based in 🇦🇪 UAE. Although I'm relativel
 #### 🤝 Soft Skills
 Strong problem-solving ability, effective teamwork, and clear communication skills. Adaptable to new technologies and quick in learning.  
 
-#### 🚀 Projects & Real-world Applications
-- 📦 [Kittygram](https://github.com/Michael-Burka/kittygram_final): Django-based cat photo-sharing app.
-- 🎥 [YaMDb](https://github.com/Michael-Burka/api_yamdb): Platform for discussing creative works.
-- 🧪 [django_testing](https://github.com/Michael-Burka/django_testing): Emphasis on testing for stability and security.
+#### 🚀 **Django Backend Development Projects**
+
+| Project Name  | Description                                         |
+|-------------- |-----------------------------------------------------|
+| **Kittygram** | Django-based cat photo-sharing app.                  |
+| **YaMDb**     | Platform for discussing creative works.              |
+| **django_testing**| Emphasis on testing for stability and security.     |
+
+#### 🚀 Data Science Projects
+| Project Name  | Description                                         |
+|-------------- |-----------------------------------------------------|
 
 ### 📚 Education
 - **Professional Training Course «Python Django Software Engineer»**

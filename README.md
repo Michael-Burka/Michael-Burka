@@ -14,23 +14,23 @@
 ### 🔍 Proficiency & Accomplishments
 
 #### 💻 Core Technologies
-**Python**: Proficient in fundamentals, advanced topics, and standard libraries.
-**Django**: Comprehensive skills in web development, ORM, form handling, and user authentication.
-**Django Rest Framework**: Skilled in CRUD operations, request management, rate limiting, and API development.
-**Databases**: Experienced with PostgreSQL and SQLite.
-**Version Control**: Proficient in using Git and GitHub for collaborative projects.
+> **Python**: Proficient in fundamentals, advanced topics, and standard libraries.
+> **Django**: Comprehensive skills in web development, ORM, form handling, and user authentication.
+> **Django Rest Framework**: Skilled in CRUD operations, request management, rate limiting, and API development.
+> **Databases**: Experienced with PostgreSQL and SQLite.
+> **Version Control**: Proficient in using Git and GitHub for collaborative projects.
 
 #### 🧪 Testing & Deployment
-**Testing**: Well-versed in `unittest` and `pytest` frameworks, especially for Django.
-**Deployment**: Expertise in server management, domain handling, Docker, and automated deployments using GitHub Actions.
+> **Testing**: Well-versed in `unittest` and `pytest` frameworks, especially for Django.
+> **Deployment**: Expertise in server management, domain handling, Docker, and automated deployments using GitHub Actions.
 
 #### 🤝 Soft Skills
-- Strong problem-solving ability, effective teamwork, and clear communication skills. Adaptable to new technologies and quick in learning.
+> Strong problem-solving ability, effective teamwork, and clear communication skills. Adaptable to new technologies and quick in learning.
 
 #### 🚀 Projects & Real-world Applications
-- 📦 **[Kittygram](https://github.com/Michael-Burka/kittygram_final)**: Django-based cat photo-sharing app with an emphasis on containerization and CI/CD.
-- 🎥 **[YaMDb](https://github.com/Michael-Burka/api_yamdb)**: Platform for discussing creative works (Books, Movies, Music) using Django and DRF.
-- 🧪 **[django_testing](https://github.com/Michael-Burka/django_testing)**: Advanced testing for web apps, highlighting stability and security.
+> 📦 **[Kittygram](https://github.com/Michael-Burka/kittygram_final)**: Django-based cat photo-sharing app with an emphasis on containerization and CI/CD.
+> 🎥 **[YaMDb](https://github.com/Michael-Burka/api_yamdb)**: Platform for discussing creative works (Books, Movies, Music) using Django and DRF.
+> 🧪 **[django_testing](https://github.com/Michael-Burka/django_testing)**: Advanced testing for web apps, highlighting stability and security.
 
 ### 📚 Education
 

@@ -2,14 +2,14 @@
 
 🐍 Python Backend Developer 📍 Based in UAE
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-00B16A?style=flat-square&logo=gunicorn)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-navy?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-darkblue?style=flat-square&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-lightgreen?style=flat-square&logo=nginx)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-grey?style=flat-square&logo=gunicorn)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-lightgrey?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux)
 
 ### 🔍 Proficiency & Accomplishments
 

@@ -47,5 +47,4 @@ Strong problem-solving ability, effective teamwork, and clear communication skil
 
 ---
 
-📫 Connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-burka-485832251/)
- or [Email](mailto:contact@michaelburka.com).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/michael-burka-485832251/) or [Email](mailto:contact@michaelburka.com).

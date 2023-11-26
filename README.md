@@ -24,7 +24,7 @@ I'm a **Python Backend Developer** based in 🇦🇪 UAE. Although I'm relativel
 - **Version Control**: Proficient in using Git and GitHub for collaborative projects.  
 
 #### 🧪 Testing & Deployment
-- **Testing**: Well-versed in `unittest` and `pytest` frameworks, especially for Django.  
+- **Testing**: Well-versed in `unittest` and `pytest` frameworks, especially for Django, including TDD methodologies.  
 - **Deployment**: Expertise in server management, domain handling, Docker, and automated deployments using GitHub Actions.  
 
 #### 🤝 Soft Skills

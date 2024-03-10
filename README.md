@@ -31,7 +31,7 @@ I'm a **Python Backend Developer** based in 🇦🇪 UAE with a knack for creati
 #### 🤝 Soft Skills
 Strong problem-solving ability, effective teamwork, and clear communication skills. Adaptable to new technologies and quick in learning.  
 
-#### 🚀 **Django Backend Development Projects**
+#### 🚀 **Python Projects**
 
 | Project Name  | Description                                         | Tech Stack |
 |-------------- |-----------------------------------------------------|--------------|

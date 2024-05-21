@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Michael Burka
 
 I'm a **Python Backend Developer** based in 🇦🇪 UAE with a knack for creating engaging, efficient, and impactful web applications. My journey in backend development, though relatively new, has been marked by significant projects such as [Kittygram](https://github.com/Michael-Burka/kittygram_final), [MDb](https://github.com/Michael-Burka/api_yamdb), [django_testing](https://github.com/Michael-Burka/django_testing), and my latest venture, [Foodgram](https://github.com/Michael-Burka/foodgram-project-react), a comprehensive web application for recipe sharing and shopping list creation, highlights my evolving skill set in backend development.
+I have also ventured into web scraping with projects like [PEP Parser](https://github.com/Michael-Burka/scrapy_parser_pep) and [Python Doc & PEP Parser](https://github.com/Michael-Burka/bs4_parser), a specialized tool designed for scraping and analyzing Python Enhancement Proposals (PEPs) using Scrapy and BeautifulSoup4.
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -21,7 +22,8 @@ I'm a **Python Backend Developer** based in 🇦🇪 UAE with a knack for creati
 - **Python**: Proficient in fundamentals, advanced topics, and standard libraries.  
 - **Django**: Comprehensive skills in web development, ORM, form handling, and user authentication.  
 - **Django Rest Framework**: Skilled in CRUD operations, request management, rate limiting, and API development.  
-- **Databases**: Experienced with PostgreSQL and SQLite.  
+- **Databases**: Experienced with PostgreSQL and SQLite.
+- **Web Scraping**: Proficient in using Scrapy and BeautifulSoup4 for data extraction and processing.
 - **Version Control**: Proficient in using Git and GitHub for collaborative projects.  
 
 #### 🧪 Testing & Deployment

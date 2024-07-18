@@ -13,7 +13,6 @@ I have also ventured into web scraping with projects like [PEP Parser](https://g
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Fish Shell](https://img.shields.io/badge/Shell-Fish-89e051?style=flat&logo=gnu-bash&logoColor=white)](https://fishshell.com/)
 
 ### 🔍 Proficiency & Accomplishments
